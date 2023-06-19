@@ -23,6 +23,6 @@ Performing EDA involves the following concise steps:
 
 8.Iterate and Explore: Continuously explore the data, generate hypotheses, and delve deeper into specific aspects for further analysis.
 
-What data are we exploring today ?
+# What data are we exploring today ?
 
 We have a very beautiful data-set of cars which contains more of 10, 000 rows and more than 10 columns which contains features of the car such as Engine Fuel Type, Engine HP, Transmission Type, highway MPG, city MPG and many more.
